@@ -1,4 +1,10 @@
-# Laudy
+---
+layout: default
+title: Laudicia Ramasenya
+description: Testing
+---
+
+# Data Scientist
 
 #### Technical Skills: Python, SQL, Power BI, 
 
