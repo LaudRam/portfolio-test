@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Data Scientist
 
 #### Technical Skills: Python, SQL, Power BI, 
