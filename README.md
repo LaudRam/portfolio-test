@@ -1,8 +1,4 @@
----
-layout: default
----
-
-# Data Scientist
+# Laudy
 
 #### Technical Skills: Python, SQL, Power BI, 
 
